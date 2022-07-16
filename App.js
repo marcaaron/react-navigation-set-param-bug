@@ -34,7 +34,7 @@ export default function App() {
           config: {
             screens: {
               Home: {
-                path: ':page',
+                path: '',
                 parse: {
                   page: Number,
                 },
